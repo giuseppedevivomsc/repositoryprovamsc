@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaRepository", "ProvaRepository\ProvaRepository.csproj", "{5A615C79-E47C-4475-AF57-FC3F51007AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A615C79-E47C-4475-AF57-FC3F51007AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A615C79-E47C-4475-AF57-FC3F51007AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A615C79-E47C-4475-AF57-FC3F51007AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A615C79-E47C-4475-AF57-FC3F51007AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE7EF83F-4C25-407D-A613-EE5062B8A974}
+	EndGlobalSection
+EndGlobal
